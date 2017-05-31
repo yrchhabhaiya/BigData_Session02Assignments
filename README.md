@@ -11,6 +11,7 @@ Task 1:
 Check whether /user/acadgild directory exists or not in the HDFS.
 If it doesn't exist, then create this.
 Create a directory /user/acadgild/hadoop.
+
 Task 2:
 Create a file in HDFS under directory /user/acadgild/hadoop, with name word-count.txt.
 Whatever we type on screen should get appended to the file.
@@ -32,6 +33,7 @@ Example:
 10-01-1990,10
 10-02-1991,20
 Move this file to HDFS at /user/acadgild/hadoop.
+
 Tasks :
 Change the permission of the file /user/acadgild/hadoop/max-temp.txt, such that
 only the owner and the group members have full control over the file.
@@ -40,7 +42,7 @@ Others do not have any control over it.
 
 
 ------------------------------------------------------------------------------------
-Assignment 2.2:
+Assignment 2.3:
 ------------------------------------------------------------------------------------
 
 Explain the below linux commands with an example. Share the screenshot of each
